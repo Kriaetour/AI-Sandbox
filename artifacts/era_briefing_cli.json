@@ -1,0 +1,269 @@
+[
+  {
+    "era_index": 0,
+    "start_tick": 0,
+    "end_tick": 499,
+    "era_title": "Era of Conflict",
+    "summary": [
+      "TERRITORY_CONFLICT at tick 24",
+      "SAYING_EVENT at tick 39",
+      "HARVEST_EVENT at tick 479"
+    ],
+    "key_events": [
+      {
+        "tick": 24,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_11",
+          "seed_8"
+        ],
+        "damage": 5
+      },
+      {
+        "tick": 26,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.56,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 31,
+        "type": "RUMOR_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 31,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 32,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 33,
+        "type": "RUMOR_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 33,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 34,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 35,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 36,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 37,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 38,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 39,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 40,
+        "type": "RUMOR_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 40,
+        "type": "SAYING_EVENT",
+        "count": 1
+      },
+      {
+        "tick": 116,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_5",
+          "seed_13"
+        ],
+        "damage": 14
+      },
+      {
+        "tick": 118,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.44,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 207,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_15",
+          "seed_0"
+        ],
+        "damage": 6
+      },
+      {
+        "tick": 209,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.33,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 297,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_14",
+          "seed_3"
+        ],
+        "damage": 8
+      },
+      {
+        "tick": 299,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.22,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 387,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_1",
+          "seed_3"
+        ],
+        "damage": 5
+      },
+      {
+        "tick": 389,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.12,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 477,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_12",
+          "seed_8"
+        ],
+        "damage": 12
+      },
+      {
+        "tick": 479,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 3.02,
+        "wood": 0.0,
+        "ore": 0.0
+      }
+    ]
+  },
+  {
+    "era_index": 1,
+    "start_tick": 500,
+    "end_tick": 999,
+    "era_title": "Era of Conflict",
+    "summary": [
+      "TERRITORY_CONFLICT at tick 567",
+      "TERRITORY_CONFLICT at tick 747",
+      "POPULATION_MILESTONE at tick 921"
+    ],
+    "key_events": [
+      {
+        "tick": 567,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_13",
+          "seed_18"
+        ],
+        "damage": 14
+      },
+      {
+        "tick": 569,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 2.93,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 657,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_17",
+          "seed_9"
+        ],
+        "damage": 15
+      },
+      {
+        "tick": 659,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 2.84,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 747,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_4",
+          "seed_17"
+        ],
+        "damage": 5
+      },
+      {
+        "tick": 749,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 2.76,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 918,
+        "type": "TERRITORY_CONFLICT",
+        "factions": [
+          "seed_3",
+          "seed_12"
+        ],
+        "damage": 5
+      },
+      {
+        "tick": 920,
+        "type": "HARVEST_EVENT",
+        "faction": "SeedFaction",
+        "food": 2.68,
+        "wood": 0.0,
+        "ore": 0.0
+      },
+      {
+        "tick": 921,
+        "type": "POPULATION_MILESTONE",
+        "faction": "SeedFaction",
+        "name": "Wynnu"
+      }
+    ]
+  }
+]

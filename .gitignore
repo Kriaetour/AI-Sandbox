@@ -1,0 +1,84 @@
+# AI Sandbox .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+log.txt
+communication_log.txt
+rl_actions.log
+dialogue.log
+
+# World data and persistence
+world_data/
+persistence/
+logs_split/
+
+# RL training artifacts
+qtable_*.json
+adaptation_history.json
+analytics_summary.json
+pop_equilibrium_summary.json
+reward_components.csv
+rewards.csv
+
+# Plot outputs
+*.png
+reward_component_plots/
+
+# Test artifacts
+.coverage
+.pytest_cache/
+.tox/
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution
+*.tar.gz
+*.zip

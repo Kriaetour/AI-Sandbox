@@ -1,0 +1,22 @@
+# Ruff configuration
+line-length = 100
+
+[lint]
+ignore = [
+    "ANN201",  # Missing return type annotation for public function
+    "E501",    # Line too long
+    # Add more rules here as needed:
+    # "ANN001",  # Missing type annotation for function argument
+    # "ANN002",  # Missing type annotation for *args
+    # "ANN003",  # Missing type annotation for **kwargs
+    # "ANN101",  # Missing type annotation for self in method
+    # "ANN102",  # Missing type annotation for cls in classmethod
+    # "B905",    # zip() without an explicit strict= parameter
+    # "C901",    # Too complex
+    # "PLR0912", # Too many branches
+    # "PLR0915", # Too many statements
+    # "PLR2004", # Magic value comparison
+    # "S101",    # Use of assert detected
+    # "T201",    # print found
+    # "T203",    # pprint found
+]

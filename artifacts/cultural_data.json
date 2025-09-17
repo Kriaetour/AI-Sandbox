@@ -1,0 +1,1970 @@
+{
+  "generation": 30,
+  "tribes": {
+    "Forest People": {
+      "population": 74,
+      "location": [
+        -48,
+        51
+      ],
+      "cultural_influence": 1.5491903006305336,
+      "language_complexity": 2.516737410178967,
+      "artistic_development": 2.2107398445459285,
+      "culinary_development": 2.7017569387457656,
+      "architectural_development": 2.402922776658321,
+      "social_development": 2.752269670140222
+    },
+    "Mountain Clan": {
+      "population": 53,
+      "location": [
+        34,
+        64
+      ],
+      "cultural_influence": 1.4951281300757466,
+      "language_complexity": 1.9143852785537752,
+      "artistic_development": 2.213603911805736,
+      "culinary_development": 2.216674526994098,
+      "architectural_development": 1.9224837492876046,
+      "social_development": 2.7942619641920006
+    },
+    "River Tribe": {
+      "population": 111,
+      "location": [
+        -90,
+        -5
+      ],
+      "cultural_influence": 1.3237063128118107,
+      "language_complexity": 2.1814677923461576,
+      "artistic_development": 2.026957646154771,
+      "culinary_development": 2.8090698674247823,
+      "architectural_development": 2.344370235267319,
+      "social_development": 2.6905705664035544
+    },
+    "Desert Nomads": {
+      "population": 132,
+      "location": [
+        -8,
+        62
+      ],
+      "cultural_influence": 1.6890797364617287,
+      "language_complexity": 1.9213222502828073,
+      "artistic_development": 2.5688270766026164,
+      "culinary_development": 2.4021599124165407,
+      "architectural_development": 2.4953264467423057,
+      "social_development": 2.4455747483680805
+    },
+    "Island Folk": {
+      "population": 182,
+      "location": [
+        -68,
+        69
+      ],
+      "cultural_influence": 1.5653112902713822,
+      "language_complexity": 2.588340401057341,
+      "artistic_development": 2.1309066348944827,
+      "culinary_development": 2.664945234766821,
+      "architectural_development": 2.1134647833377747,
+      "social_development": 2.6574338055954523
+    },
+    "Plains Wanderers": {
+      "population": 181,
+      "location": [
+        14,
+        80
+      ],
+      "cultural_influence": 1.5805869227213163,
+      "language_complexity": 2.056895781582685,
+      "artistic_development": 2.1951033549111236,
+      "culinary_development": 2.9318229847129955,
+      "architectural_development": 2.8282276338945715,
+      "social_development": 2.482739728166437
+    }
+  },
+  "languages": {
+    "Forest People": {
+      "vocabulary": {
+        "water": "us",
+        "fire": "uunkur",
+        "earth": "mako",
+        "sky": "ueu",
+        "sun": "mu",
+        "moon": "mu",
+        "star": "miue",
+        "food": "kue",
+        "home": "ko",
+        "friend": "ue",
+        "enemy": "oulipim",
+        "love": "oom",
+        "fear": "kou",
+        "joy": "ek",
+        "hunt": "im",
+        "gather": "iunrien",
+        "dance": "aaao",
+        "sing": "kanpkee",
+        "story": "pumtrla",
+        "dream": "loiu",
+        "elder": "kotu",
+        "magic": "losatem",
+        "healer": "eepsop",
+        "spirit": "pore",
+        "warrior": "putlot",
+        "child": "lemopa"
+      },
+      "grammar_rules": {}
+    },
+    "Mountain Clan": {
+      "vocabulary": {
+        "water": "teraa",
+        "fire": "poeeu",
+        "earth": "u",
+        "sky": "or",
+        "sun": "ioami",
+        "moon": "eeo",
+        "star": "rmllimu",
+        "food": "oluu",
+        "home": "teku",
+        "friend": "eu",
+        "enemy": "seuipo",
+        "love": "tiiarpl",
+        "fear": "aem",
+        "joy": "pakuk",
+        "hunt": "resnelmo",
+        "gather": "iuupu",
+        "dance": "polu",
+        "sing": "uutmulseu",
+        "story": "i",
+        "dream": "kato",
+        "healer": "i",
+        "elder": "lusre",
+        "warrior": "rea",
+        "child": "lulalu",
+        "magic": "mulaoe",
+        "spirit": "oitip"
+      },
+      "grammar_rules": {}
+    },
+    "River Tribe": {
+      "vocabulary": {
+        "water": "kiiai",
+        "fire": "e",
+        "earth": "kapiku",
+        "sky": "nuuoptm",
+        "sun": "ma",
+        "moon": "rarsama",
+        "star": "atti",
+        "food": "a",
+        "home": "ip",
+        "friend": "ok",
+        "enemy": "stk",
+        "love": "komnukui",
+        "fear": "tunuk",
+        "joy": "pirokmo",
+        "hunt": "kunmompu",
+        "gather": "pkma",
+        "dance": "uusi",
+        "sing": "at",
+        "story": "pk",
+        "dream": "amsia",
+        "child": "psi",
+        "spirit": "sikini",
+        "magic": "oapaem",
+        "warrior": "eer",
+        "elder": "ik",
+        "healer": "au"
+      },
+      "grammar_rules": {}
+    },
+    "Desert Nomads": {
+      "vocabulary": {
+        "water": "ilsikoi",
+        "fire": "ius",
+        "earth": "sammmot",
+        "sky": "papsit",
+        "sun": "ruekippol",
+        "moon": "nelu",
+        "star": "oouu",
+        "food": "takma",
+        "home": "koauk",
+        "friend": "mirtpn",
+        "enemy": "am",
+        "love": "pippoae",
+        "fear": "loepes",
+        "joy": "lutim",
+        "hunt": "murpre",
+        "gather": "mmppkka",
+        "dance": "ap",
+        "sing": "saasu",
+        "story": "lomptak",
+        "dream": "poremir",
+        "warrior": "piiru",
+        "spirit": "rononte",
+        "magic": "namsa",
+        "healer": "iua",
+        "child": "em",
+        "elder": "tan"
+      },
+      "grammar_rules": {}
+    },
+    "Island Folk": {
+      "vocabulary": {
+        "water": "uem",
+        "fire": "ii",
+        "earth": "a",
+        "sky": "tuaukri",
+        "sun": "i",
+        "moon": "rtp",
+        "star": "ni",
+        "food": "lutke",
+        "home": "kalek",
+        "friend": "otsitkom",
+        "enemy": "mm",
+        "love": "teret",
+        "fear": "lum",
+        "joy": "taluk",
+        "hunt": "potuskep",
+        "gather": "uuu",
+        "dance": "it",
+        "sing": "lal",
+        "story": "ouo",
+        "dream": "morku",
+        "elder": "pm",
+        "child": "uutm",
+        "spirit": "neuremkor",
+        "warrior": "peakips",
+        "magic": "iktap",
+        "healer": "man"
+      },
+      "grammar_rules": {}
+    },
+    "Plains Wanderers": {
+      "vocabulary": {
+        "water": "e",
+        "fire": "uu",
+        "earth": "ristipian",
+        "sky": "sa",
+        "sun": "kerlinu",
+        "moon": "esei",
+        "star": "sepkot",
+        "food": "iptli",
+        "home": "nutmio",
+        "friend": "uemippen",
+        "enemy": "ta",
+        "love": "uokei",
+        "fear": "etmipnkk",
+        "joy": "ke",
+        "hunt": "ees",
+        "gather": "kikpi",
+        "dance": "imikoka",
+        "sing": "ualumi",
+        "story": "a",
+        "dream": "at",
+        "child": "liko",
+        "warrior": "rii",
+        "healer": "epot",
+        "spirit": "i",
+        "elder": "ta",
+        "magic": "mulmoe"
+      },
+      "grammar_rules": {}
+    }
+  },
+  "traditions": {
+    "Forest People": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Island Folk"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Island Folk"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        },
+        {
+          "name": "Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Island Folk"
+        },
+        {
+          "name": "Adapted: Sacred Ceremony 2",
+          "frequency": "annual",
+          "participants": "selected few",
+          "purpose": "celebration",
+          "origin": "Island Folk"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        }
+      ]
+    },
+    "Mountain Clan": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        },
+        {
+          "name": "Adapted: Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        }
+      ]
+    },
+    "River Tribe": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        }
+      ]
+    },
+    "Desert Nomads": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        },
+        {
+          "name": "Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Plains Wanderers"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        }
+      ]
+    },
+    "Island Folk": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Forest People"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Forest People"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Forest People"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Forest People"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        },
+        {
+          "name": "Sacred Ceremony 2",
+          "frequency": "annual",
+          "participants": "selected few",
+          "purpose": "celebration"
+        },
+        {
+          "name": "Adapted: Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Sacred Ceremony 2",
+          "frequency": "annual",
+          "participants": "selected few",
+          "purpose": "celebration",
+          "origin": "Forest People"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        },
+        {
+          "name": "Innovative Melody 2",
+          "instruments": [
+            "drum",
+            "flute"
+          ],
+          "tempo": "fast",
+          "purpose": "healing"
+        }
+      ]
+    },
+    "Plains Wanderers": {
+      "stories": [
+        {
+          "title": "Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Desert Nomads"
+        },
+        {
+          "title": "Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Desert Nomads"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Mountain Clan"
+        },
+        {
+          "title": "Adapted: Adapted: Adapted: Adapted: Adapted: Creation of the World",
+          "theme": "origin",
+          "length": "long",
+          "moral": "respect nature",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "rituals": [
+        {
+          "name": "Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving"
+        },
+        {
+          "name": "Adapted: Harvest Celebration",
+          "frequency": "annual",
+          "participants": "all tribe members",
+          "purpose": "thanksgiving",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "music_styles": [
+        {
+          "name": "Tribal Chant",
+          "instruments": [
+            "drums",
+            "voices"
+          ],
+          "tempo": "slow",
+          "purpose": "ceremonial"
+        }
+      ]
+    }
+  },
+  "cuisines": {
+    "Forest People": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "berries",
+        "nuts",
+        "herbs",
+        "forest mushrooms",
+        "dried meats",
+        "dates",
+        "grains",
+        "game meat",
+        "coconut",
+        "tropical fruits",
+        "fish"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "berries",
+            "nuts",
+            "herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Desert Nomads"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "coconut",
+            "seaweed",
+            "tropical fruits"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Island Folk"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "coconut",
+            "seaweed",
+            "tropical fruits"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Island Folk"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "berries",
+            "nuts",
+            "herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Island Folk"
+        }
+      ],
+      "meal_rituals": []
+    },
+    "Mountain Clan": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "mountain herbs",
+        "goat meat",
+        "roots",
+        "wild grains",
+        "dried meats",
+        "honey",
+        "wild vegetables",
+        "grains",
+        "game meat"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "mountain herbs",
+            "goat meat",
+            "roots"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Specialty Dish 2",
+          "ingredients": [
+            "goat meat",
+            "honey",
+            "dried meats"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "grains",
+            "game meat",
+            "wild vegetables"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Specialty Dish 4",
+          "ingredients": [
+            "roots",
+            "grains",
+            "mountain herbs"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Desert Nomads"
+        },
+        {
+          "name": "Adapted: Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "meal_rituals": [
+        {
+          "name": "Feast Ritual 1",
+          "type": "harvest",
+          "participants": "elders",
+          "special_foods": [
+            "honey",
+            "mountain herbs"
+          ]
+        }
+      ]
+    },
+    "River Tribe": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "fish",
+        "river plants",
+        "shellfish",
+        "water reeds"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "fish",
+            "river plants",
+            "shellfish"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Specialty Dish 2",
+          "ingredients": [
+            "shellfish",
+            "river plants",
+            "water reeds"
+          ],
+          "cooking_method": "grilling",
+          "occasion": "healing"
+        }
+      ],
+      "meal_rituals": []
+    },
+    "Desert Nomads": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "cactus fruit",
+        "dried meats",
+        "desert herbs",
+        "dates",
+        "honey",
+        "grains",
+        "game meat",
+        "mountain herbs",
+        "roots"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "grains",
+            "game meat",
+            "wild vegetables"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "mountain herbs",
+            "goat meat",
+            "roots"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Adapted: Specialty Dish 2",
+          "ingredients": [
+            "goat meat",
+            "honey",
+            "dried meats"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Specialty Dish 7",
+          "ingredients": [
+            "dried meats",
+            "dates",
+            "honey"
+          ],
+          "cooking_method": "grilling",
+          "occasion": "ceremony"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "mountain herbs",
+            "goat meat",
+            "roots"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Mountain Clan"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "meal_rituals": []
+    },
+    "Island Folk": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "coconut",
+        "seaweed",
+        "tropical fruits",
+        "fish",
+        "berries",
+        "herbs",
+        "forest mushrooms",
+        "dried meats",
+        "grains",
+        "game meat"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "coconut",
+            "seaweed",
+            "tropical fruits"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "berries",
+            "nuts",
+            "herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "berries",
+            "nuts",
+            "herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "coconut",
+            "seaweed",
+            "tropical fruits"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Adapted: Basic Stew",
+          "ingredients": [
+            "berries",
+            "nuts",
+            "herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Forest People"
+        }
+      ],
+      "meal_rituals": []
+    },
+    "Plains Wanderers": {
+      "cooking_methods": [
+        {
+          "method": "Roasting",
+          "tools": [
+            "fire",
+            "spit"
+          ],
+          "purpose": "preserving meat"
+        }
+      ],
+      "ingredients": [
+        "grains",
+        "game meat",
+        "wild vegetables",
+        "honey",
+        "dried meats",
+        "mountain herbs",
+        "roots",
+        "desert herbs",
+        "dates",
+        "wild grains"
+      ],
+      "dishes": [
+        {
+          "name": "Basic Stew",
+          "ingredients": [
+            "grains",
+            "game meat",
+            "wild vegetables"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "cactus fruit",
+            "dried meats",
+            "desert herbs"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Desert Nomads"
+        },
+        {
+          "name": "Adapted: Basic Stew",
+          "ingredients": [
+            "mountain herbs",
+            "goat meat",
+            "roots"
+          ],
+          "cooking_method": "boiling",
+          "occasion": "everyday",
+          "origin": "Mountain Clan"
+        },
+        {
+          "name": "Specialty Dish 4",
+          "ingredients": [
+            "roots",
+            "grains",
+            "mountain herbs"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival"
+        },
+        {
+          "name": "Adapted: Specialty Dish 2",
+          "ingredients": [
+            "goat meat",
+            "honey",
+            "dried meats"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival",
+          "origin": "Mountain Clan"
+        },
+        {
+          "name": "Adapted: Specialty Dish 2",
+          "ingredients": [
+            "goat meat",
+            "honey",
+            "dried meats"
+          ],
+          "cooking_method": "drying",
+          "occasion": "festival",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "meal_rituals": []
+    }
+  },
+  "architectures": {
+    "Forest People": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "wood",
+            "bark",
+            "vines"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "coconut palm",
+            "coral",
+            "sea shells"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Island Folk"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "wood",
+            "bark",
+            "vines"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Island Folk"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "adobe",
+            "palm fronds",
+            "desert stone"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Desert Nomads"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "wood",
+            "bark",
+            "vines"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Island Folk"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "wood",
+        "bark",
+        "vines",
+        "leaves",
+        "adobe",
+        "palm fronds",
+        "mud",
+        "thatch",
+        "sea shells",
+        "coral"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        }
+      ]
+    },
+    "Mountain Clan": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "stone",
+            "mountain wood",
+            "animal hides"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Advanced Dwelling 4",
+          "materials": [
+            "animal hides",
+            "bone",
+            "adobe"
+          ],
+          "purpose": "elder residence",
+          "capacity": "specialized use"
+        },
+        {
+          "name": "Adapted: Adapted: Adapted: Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Desert Nomads"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Desert Nomads"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "stone",
+        "mountain wood",
+        "animal hides",
+        "bone",
+        "palm fronds",
+        "mud",
+        "adobe",
+        "desert stone",
+        "wood",
+        "grass"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        },
+        {
+          "technique": "Dome Building",
+          "materials": [
+            "desert stone",
+            "bone"
+          ],
+          "purpose": "weather protection",
+          "origin": "Desert Nomads"
+        }
+      ]
+    },
+    "River Tribe": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "river reeds",
+            "mud",
+            "driftwood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "river reeds",
+        "mud",
+        "driftwood",
+        "shells"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        }
+      ]
+    },
+    "Desert Nomads": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "adobe",
+            "palm fronds",
+            "desert stone"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Adapted: Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Plains Wanderers"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "stone",
+            "mountain wood",
+            "animal hides"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Mountain Clan"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Mountain Clan"
+        },
+        {
+          "name": "Adapted: Advanced Dwelling 4",
+          "materials": [
+            "animal hides",
+            "bone",
+            "adobe"
+          ],
+          "purpose": "elder residence",
+          "capacity": "specialized use",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "adobe",
+        "palm fronds",
+        "desert stone",
+        "animal hides",
+        "buffalo hide",
+        "wood",
+        "mud",
+        "grass",
+        "bone",
+        "stone"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        },
+        {
+          "technique": "Dome Building",
+          "materials": [
+            "desert stone",
+            "bone"
+          ],
+          "purpose": "weather protection"
+        }
+      ]
+    },
+    "Island Folk": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "coconut palm",
+            "coral",
+            "sea shells"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        },
+        {
+          "name": "Adapted: Basic Hut",
+          "materials": [
+            "wood",
+            "bark",
+            "vines"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "coconut palm",
+            "coral",
+            "sea shells"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Forest People"
+        },
+        {
+          "name": "Adapted: Adapted: Adapted: Basic Hut",
+          "materials": [
+            "wood",
+            "bark",
+            "vines"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Forest People"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "coconut palm",
+        "coral",
+        "sea shells",
+        "thatch",
+        "bark",
+        "palm fronds",
+        "mud",
+        "vines",
+        "adobe"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        }
+      ]
+    },
+    "Plains Wanderers": {
+      "building_styles": [],
+      "housing_designs": [
+        {
+          "name": "Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people"
+        },
+        {
+          "name": "Adapted: Adapted: Basic Hut",
+          "materials": [
+            "grass",
+            "buffalo hide",
+            "wood"
+          ],
+          "purpose": "family dwelling",
+          "capacity": "4-6 people",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "monuments": [],
+      "construction_materials": [
+        "grass",
+        "buffalo hide",
+        "wood",
+        "mud",
+        "adobe",
+        "palm fronds",
+        "desert stone",
+        "animal hides",
+        "bone"
+      ],
+      "building_techniques": [
+        {
+          "technique": "Post-and-Lintel",
+          "materials": [
+            "wood",
+            "stone"
+          ],
+          "purpose": "structural support"
+        }
+      ]
+    }
+  },
+  "social_structures": {
+    "Forest People": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        },
+        {
+          "structure": "Polygamous Structure",
+          "composition": "tribal commune",
+          "residence": "neolocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        },
+        {
+          "method": "Trial by Combat",
+          "participants": "elders only",
+          "scope": "emergency situations"
+        }
+      ],
+      "social_norms": []
+    },
+    "Mountain Clan": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        },
+        {
+          "style": "Spiritual Leader",
+          "basis": "hereditary",
+          "decision_scope": "economic decisions"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        }
+      ],
+      "social_norms": []
+    },
+    "River Tribe": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        }
+      ],
+      "social_norms": []
+    },
+    "Desert Nomads": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        },
+        {
+          "style": "Spiritual Leader",
+          "basis": "hereditary",
+          "decision_scope": "economic decisions",
+          "origin": "Mountain Clan"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        }
+      ],
+      "social_norms": []
+    },
+    "Island Folk": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        }
+      ],
+      "social_norms": []
+    },
+    "Plains Wanderers": {
+      "leadership_styles": [
+        {
+          "style": "Elder Council",
+          "basis": "wisdom and experience",
+          "decision_scope": "tribal matters"
+        }
+      ],
+      "family_structures": [
+        {
+          "structure": "Extended Family",
+          "composition": "parents, children, grandparents",
+          "residence": "matrilocal"
+        }
+      ],
+      "social_roles": [
+        {
+          "role": "Shaman",
+          "responsibility": "spiritual guidance",
+          "selection": "spiritual calling"
+        },
+        {
+          "role": "Warrior",
+          "responsibility": "protection",
+          "selection": "proven courage"
+        },
+        {
+          "role": "Healer",
+          "responsibility": "medical care",
+          "selection": "healing knowledge"
+        }
+      ],
+      "decision_making": [
+        {
+          "method": "Consensus",
+          "participants": "all adults",
+          "scope": "important matters"
+        },
+        {
+          "method": "Lottery",
+          "participants": "all adults",
+          "scope": "emergency situations"
+        }
+      ],
+      "social_norms": []
+    }
+  }
+}

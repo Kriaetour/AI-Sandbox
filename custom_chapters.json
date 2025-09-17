@@ -1,0 +1,24 @@
+[
+  {
+    "chapter": 1,
+    "era_title": "Era of Conflict",
+    "narrative": "In these days the chronicles speak of struggle and muted hope.   \"start_tick\": 0, |   \"end_tick\": 499, |   \"era_title\": \"Era of Conflict\", ... The factions maneuvered, resources thinned, and destinies converged.",
+    "summary": "- In these days the chronicles speak of struggle and muted hope\n- \"start_tick\": 0, |   \"end_tick\": 499, |   \"era_title\": \"Era of Conflict\",\n- The factions maneuvered, resources thinned, and destinies converged",
+    "tick_range": [
+      0,
+      499
+    ],
+    "event_count": 25
+  },
+  {
+    "chapter": 2,
+    "era_title": "Era of Conflict",
+    "narrative": "In these days the chronicles speak of struggle and muted hope. - \"start_tick\": 0, |   \"end_tick\": 499, |   \"era_title\": \"Era of Conflict\", |   \"start_tick\": 500, |   \"end_tick\": 999, ... The factions maneuvered, resources thinned, and destinies converged.",
+    "summary": "- In these days the chronicles speak of struggle and muted hope\n- - \"start_tick\": 0, |   \"end_tick\": 499, |   \"era_title\": \"Era of Conflict\", |   \"start_tick\": 500, |   \"end_tick\": 999,\n- The factions maneuvered, resources thinned, and destinies converged",
+    "tick_range": [
+      500,
+      999
+    ],
+    "event_count": 9
+  }
+]

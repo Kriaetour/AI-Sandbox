@@ -1,0 +1,21 @@
+{
+  "q_table": {
+    "(np.int64(4), np.int64(4), np.int64(4), 0, 0, 0, 0)": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "epsilon": 0.1,
+  "lr": 0.1,
+  "gamma": 0.95,
+  "action_names": [
+    "propose_alliance",
+    "declare_rivalry",
+    "mediate_conflict",
+    "form_trade_agreement",
+    "diplomacy_noop"
+  ]
+}

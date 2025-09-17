@@ -1,0 +1,8 @@
+{
+  "episode": 1001,
+  "unique_states": 60132,
+  "coverage_percent": 9.321056547619047,
+  "epsilon": 0.55,
+  "timestamp": 1758082787.0009162,
+  "training_time_sec": 130.06294679641724
+}

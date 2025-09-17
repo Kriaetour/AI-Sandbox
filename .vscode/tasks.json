@@ -1,0 +1,132 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run AI Sandbox (Interactive)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"main.py"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Core Simulation (1000 ticks)",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"main.py",
+				"core",
+				"--ticks",
+				"1000"
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "Train Population RL Agent",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"train_rl_agent.py",
+				"--target-pop",
+				"300",
+				"--episodes",
+				"100"
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "Train Diplomacy RL Agent",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"train_diplomacy_rl.py",
+				"--episodes",
+				"50",
+				"--max-ticks",
+				"200"
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "Run Tests",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"pytest",
+				"tests/",
+				"-v"
+			],
+			"group": "test",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "Install Dependencies",
+			"type": "shell",
+			"command": "pip",
+			"args": [
+				"install",
+				"-r",
+				"requirements.txt"
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		},
+		{
+			"label": "Format Code",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"-m",
+				"black",
+				"."
+			],
+			"group": "build",
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			}
+		}
+	]
+}
